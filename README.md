@@ -39,7 +39,7 @@ This project focuses on clean game logic, smooth animations, and a fully respons
 ## 🚀 Live Demo (GitHub Pages)
 
 You can play the game here:  
-`https://your-username.github.io/your-repo-name/`
+` https://prajwalmundekar.github.io/2048-Game/`
 
 ---
 
